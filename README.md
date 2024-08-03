@@ -44,7 +44,7 @@ An e-commerce website built with React, Redux, and Node.js. It includes features
 | Article | Description |
 |---------|-------------|
 | [📄 Introduction to React](https://github.com/jardelva96/introduction-to-react) | An introductory article on React, covering its core concepts, components, state, and props. |
-| [📄 Getting Started with Java](https://link-to-article.com) | A beginner-friendly guide to Java, explaining basic syntax, data types, and object-oriented programming principles. |
+| [📄 Getting Started with Java](https://github.com/jardelva96/Getting-Started-with-Java) | A beginner-friendly guide to Java, explaining basic syntax, data types, and object-oriented programming principles. |
 | [📄 RESTful APIs with Node.js](https://link-to-article.com) | A detailed tutorial on building RESTful APIs using Node.js and Express, including best practices and examples. |
 
 ## 📫 How to Reach Me
