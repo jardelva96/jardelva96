@@ -28,8 +28,8 @@
 
 ## 📈 GitHub Stats
 
-![Jardel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jardel-va96&show_icons=true&theme=radical)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jardel-va96&layout=compact&theme=radical)
+![Jardel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jardelva96&show_icons=true&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jardelva96&layout=compact&theme=radical)
 
 ## 🌱 Projects
 
