@@ -20,10 +20,10 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jardelva96&show_icons=true&theme=radical" alt="Jardel's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jardelva96&layout=compact&theme=radical" alt="Most Used Languages" />
-</p>
+</div>
 
 ## 🌱 Projects
 
@@ -46,17 +46,14 @@ An e-commerce website built with React, Redux, and Node.js. It includes features
 
 ## 📫 How to Reach Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jardelva96/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:jardel.va96@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+| Platform | Link |
+|----------|------|
+| **LinkedIn** | [jardel-va96](https://www.linkedin.com/in/jardel-va96/) |
+| **Email** | [jardel.va96@gmail.com](mailto:jardel.va96@gmail.com) |
 
 ---
 
 ⭐️ Feel free to star my repositories if you find them interesting!
+
 
 
