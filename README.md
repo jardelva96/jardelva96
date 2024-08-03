@@ -2,7 +2,7 @@
 
 👋 Hi there! I'm **Jardel Alves**, a software developer passionate about creating innovative and efficient solutions. I have experience in Java, web development, React, and JavaScript.
 
-![Lightning](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+![Developer](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 ## 🚀 About Me
 
@@ -54,7 +54,7 @@ An e-commerce website built with React, Redux, and Node.js. It includes features
 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jardel-va96/) | [LinkedIn Profile](https://www.linkedin.com/in/jardel-va96/) |
 | [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jardel.va96@gmail.com) | [Send an Email](mailto:jardel.va96@gmail.com) |
 
-![Thunderstorm](https://media.giphy.com/media/l0HlRmKuLLeKQn6x2/giphy.gif)
+![Coding](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
 
 ---
 
