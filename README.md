@@ -2,7 +2,7 @@
 
 👋 Hi there! I'm **Jardel Alves**, a software developer passionate about creating innovative and efficient solutions. I have experience in Java, web development, React, and JavaScript.
 
-![Developer](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+![Developer]([https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDZzZWVtZnVpeG0zZmtremR1M29pbWQxY2pyZ2FvZjZzeTAydDJodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hGjr3wcwjGG99V6vIY/giphy.gif))
 
 ## 🚀 About Me
 My Portfolio - (https://jardelva96.github.io/)
@@ -56,7 +56,7 @@ An e-commerce website built with React, Redux, and Node.js. It includes features
 
 | Platform | Link |
 |----------|------|
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jardel-va96/) | [LinkedIn Profile](https://www.linkedin.com/in/jardel-va96/) |
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jardel-alves96/) | [LinkedIn Profile](https://www.linkedin.com/in/jardel-alves96/) |
 | [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jardel.va96@gmail.com) | [Send an Email](mailto:jardel.va96@gmail.com) |
 
 ![Coding](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
