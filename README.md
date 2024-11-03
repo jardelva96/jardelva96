@@ -2,7 +2,7 @@
 
 👋 Hi there! I'm **Jardel Alves**, a Full Stack Developer with a passion for building innovative and efficient solutions. With solid experience in **Java** and **Python**, as well as front-end and back-end development, I strive to deliver top-quality software and stay on the cutting edge of technology.
 
-![Developer GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDZzZWVtZnVpeG0zZmtremR1M29pbWQxY2pyZ2FvZjZzeTAydDJodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hGjr3wcwjGG99V6vIY/giphy.gif)
+![Developer GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDZzZWVtZnVpeG0zZmtremR1M29pbWQxY2pyZ2FvZjZzeTAydDJodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hGjr3wcwjGG99V6vIY/giphy.gif) ![Developer GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3JrZzdmNHpoMTR2b2VrMHdoOGt5N3Y0OHZiOGhrbWl3eTVvOHQwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dBlZwFc1QjzXseX7aT/giphy.gif)
 
 
 ## 🚀 About Me
@@ -110,10 +110,12 @@ A logistics management system using Java, Spring Boot, and PostgreSQL for data m
 ### [🔹 Online Voting System](https://github.com/jardelva96/fitness-tracker)
 A secure and scalable online voting platform built with Java, Spring Boot, and Thymeleaf.
 
-### [📫 How to Reach Me]
-Platform	Link
-	[LinkedIn Profile](https://www.linkedin.com/in/jardel-alves96/)
-	[Send an Email](mailto:jardel.va96@gmail.com)
+## 📫 How to Reach Me
+
+| Platform | Link |
+|----------|------|
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jardel-alves96/) | [LinkedIn Profile](https://www.linkedin.com/in/jardel-alves96/) |
+| [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jardel.va96@gmail.com) | [Send an Email](mailto:jardel.va96@gmail.com) |
 
 
 ⭐️ Feel free to star my repositories if you find them interesting!
