@@ -2,7 +2,7 @@
 
 👋 Hi there! I'm **Jardel Alves**, a Full Stack Developer with a passion for building innovative and efficient solutions. With solid experience in **Java** and **Python**, as well as front-end and back-end development, I strive to deliver top-quality software and stay on the cutting edge of technology.
 
-![Developer GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDZzZWVtZnVpeG0zZmtremR1M29pbWQxY2pyZ2FvZjZzeTAydDJodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hGjr3wcwjGG99V6vIY/giphy.gif) ![Developer GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3JrZzdmNHpoMTR2b2VrMHdoOGt5N3Y0OHZiOGhrbWl3eTVvOHQwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dBlZwFc1QjzXseX7aT/giphy.gif)
+![Developer GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDZzZWVtZnVpeG0zZmtremR1M29pbWQxY2pyZ2FvZjZzeTAydDJodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hGjr3wcwjGG99V6vIY/giphy.gif) 
 
 
 ## 🚀 About Me
