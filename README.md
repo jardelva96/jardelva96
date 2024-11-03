@@ -26,9 +26,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jardelva96&show_icons=true&theme=radical" alt="Jardel's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jardelva96&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jardelva96&show_icons=true&theme=radical&hide=issues,contribs&count_private=true" alt="Jardel's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jardelva96&layout=compact&theme=radical&langs_count=8" alt="Most Used Languages" />
 </div>
+
 
 ## 🌱 Projects
 
