@@ -2,7 +2,7 @@
 
 👋 Hi there! I'm **Jardel Alves**, a software developer passionate about creating innovative and efficient solutions. I have experience in Java, web development, React, and JavaScript.
 
-![Developer]([https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDZzZWVtZnVpeG0zZmtremR1M29pbWQxY2pyZ2FvZjZzeTAydDJodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hGjr3wcwjGG99V6vIY/giphy.gif))
+![Developer]([https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDZzZWVtZnVpeG0zZmtremR1M29pbWQxY2pyZ2FvZjZzeTAydDJodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hGjr3wcwjGG99V6vIY/giphy.gif)
 
 ## 🚀 About Me
 My Portfolio - (https://jardelva96.github.io/)
