@@ -1,4 +1,4 @@
-# ✭ Jardel Alves ✭
+# 🗽 Jardel Alves 🗽
 
 👋 Hi there! I'm **Jardel Alves**, a Full Stack Developer with a passion for building innovative and efficient solutions. With solid experience in **Java** and **Python**, as well as front-end and back-end development, I strive to deliver top-quality software and stay on the cutting edge of technology.
 
@@ -117,5 +117,6 @@ A secure and scalable online voting platform built with Java, Spring Boot, and T
 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jardel-alves96/) | [LinkedIn Profile](https://www.linkedin.com/in/jardel-alves96/) |
 | [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jardel.va96@gmail.com) | [Send an Email](mailto:jardel.va96@gmail.com) |
 
+![Developer GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJhM3ZqeXQzeWFpaXRjZTV4bGV0d3hoYjBlc2p6bnJhZG9qOWd4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NLHq5dOtUtOUEjOr7W/giphy.gif)
 
 ⭐️ Feel free to star my repositories if you find them interesting!
