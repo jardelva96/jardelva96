@@ -10,8 +10,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=jardelva96&color=blue)
 
 - ✨ **Full Stack Developer** specializing in **Java** and **Python**.
-- ☁️ Experienced in creating dynamic web applications using **React**, **Node.js**, and **Spring Boot**.
-- 🎓 Graduated in **Analysis and Systems Development**.
+- 🎓 Graduated in **Analysis and Systems Development and Math**.
 - 📈 Continuously exploring and mastering new technologies to expand my expertise.
 
 ## 🛠️ Skills
@@ -78,5 +77,43 @@ A property listing platform using **Python Django** and **PostgreSQL**.
 ### [🔹 Fitness Tracker App](https://github.com/jardelva96/fitness-tracker)
 A fitness tracking app built with **Java**, **Spring Boot**, and **React**.
 
-### [🔹 Online Course Platform](
+### [🔹 Recipe Sharing Platform](https://github.com/jardelva96/fitness-tracker)
+A social platform for sharing and discovering recipes, built using Python, Django, and SQLite.
 
+### [🔹 AI-Powered Chatbot](https://github.com/jardelva96/fitness-tracker)
+An interactive chatbot utilizing Python, TensorFlow, and NLTK for natural language processing.
+
+### [🔹 Travel Booking System](https://github.com/jardelva96/fitness-tracker)
+A comprehensive travel booking application developed in Java, Spring Boot, and MySQL.
+
+### [🔹 Content Management System (CMS)](https://github.com/jardelva96/fitness-tracker)
+A React and Node.js-based CMS that allows users to create and manage web content seamlessly.
+
+### [🔹 Data Visualization Platform](https://github.com/jardelva96/fitness-tracker)
+A Python application utilizing Matplotlib and Seaborn for advanced data visualization.
+
+### [🔹 Online Quiz Platform](https://github.com/jardelva96/fitness-tracker)
+An interactive quiz platform created using JavaScript, Node.js, and MongoDB.
+
+### [🔹 News Aggregator App](https://github.com/jardelva96/fitness-tracker)
+A web app that collects and displays news from various sources using Python and Flask.
+
+### [🔹 Event Management System](https://github.com/jardelva96/fitness-tracker)
+A platform for creating and managing events, developed with React, Node.js, and MongoDB.
+
+### [🔹 Personal Blog Platform](https://github.com/jardelva96/fitness-tracker)
+A blog platform built with Python Django and Bootstrap, allowing users to create, edit, and publish posts.
+
+### [🔹 Logistics and Supply Chain App](https://github.com/jardelva96/fitness-tracker)
+A logistics management system using Java, Spring Boot, and PostgreSQL for data management and tracking.
+
+### [🔹 Online Voting System](https://github.com/jardelva96/fitness-tracker)
+A secure and scalable online voting platform built with Java, Spring Boot, and Thymeleaf.
+
+### [📫 How to Reach Me]
+Platform	Link
+	[LinkedIn Profile](https://www.linkedin.com/in/jardel-alves96/)
+	[Send an Email](mailto:jardel.va96@gmail.com)
+
+
+⭐️ Feel free to star my repositories if you find them interesting!
