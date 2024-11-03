@@ -1,66 +1,43 @@
-# 🌟 Jardel Alves 🌟
+🌟 Jardel Alves 🌟
+👋 Olá! Sou Jardel Alves, um desenvolvedor Full Stack apaixonado por criar soluções inovadoras e eficientes. Com ampla experiência em Java e Python, além de desenvolvimento front-end e back-end, estou sempre em busca de aprimorar minhas habilidades e me manter atualizado com as novas tecnologias.
 
-👋 Hi there! I'm **Jardel Alves**, a software developer passionate about creating innovative and efficient solutions. I have experience in Java, web development, React, and JavaScript.
+🚀 Sobre Mim
+✨ Desenvolvedor Full Stack especializado em Java e Python.
+🌐 Experiência na criação de aplicativos web dinâmicos usando React, Node.js e Spring Boot.
+🎓 Formado em Análise e Desenvolvimento de Sistemas.
+📚 Sempre aprendendo novas tecnologias para expandir meu conhecimento e melhorar minhas habilidades.
+🛠️ Habilidades
+Linguagens de Programação	Desenvolvimento Front-End	Desenvolvimento Back-End	Ferramentas e Tecnologias
+			
+			
+			
+			
+🌱 Projetos
+🔹 Task Manager
+Aplicativo de gerenciamento de tarefas desenvolvido com React e Node.js para ajudar na organização e produtividade.
 
-![Developer]([https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDZzZWVtZnVpeG0zZmtremR1M29pbWQxY2pyZ2FvZjZzeTAydDJodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hGjr3wcwjGG99V6vIY/giphy.gif)
+🔹 Weather App
+Aplicação de previsão do tempo criada com JavaScript e OpenWeather API, fornecendo atualizações climáticas em tempo real.
 
-## 🚀 About Me
-My Portfolio - (https://jardelva96.github.io/)
-![Profile views](https://komarev.com/ghpvc/?username=seu-username&color=blue)
+🔹 E-commerce Platform
+Plataforma de e-commerce completa construída com React, Redux e Node.js, com navegação de produtos, carrinho de compras e checkout seguro.
 
+🔹 Scientific Calculator
+Calculadora científica em Python com interface gráfica e funções matemáticas complexas.
 
-- 💻 Junior Developer specializing in **Java** and **React**.
-- 🌐 Web development enthusiast with strong knowledge in **HTML**, **CSS**, and **JavaScript**.
-- 🎓 Graduated in **Analysis and Systems Development**.
-- 📚 Always seeking to learn new technologies and improve my skills.
+🔹 Online Banking System
+Sistema bancário online seguro usando Java, Spring Boot e MySQL, com funcionalidades de saldo e transferências.
 
-## 🛠️ Skills
+🔹 Social Media Dashboard
+Dashboard de análise de redes sociais desenvolvido com Python Flask para monitoramento de métricas e desempenho.
 
-| Programming Languages | Web Development | Tools and Technologies |
-|-----------------------|-----------------|------------------------|
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) |
-| ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) | ![Web Development](https://img.shields.io/badge/Web_Development-61DAFB?style=for-the-badge&logo=web&logoColor=white) | ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) |
-| ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) | | ![RESTful APIs](https://img.shields.io/badge/REST-25D366?style=for-the-badge&logo=rest&logoColor=white) |
-| | | ![Inteligência Artificial](https://img.shields.io/badge/AI-007ACC?style=for-the-badge&logo=ai&logoColor=white) |
+🔹 Chat Application
+Aplicativo de chat em tempo real construído com Java, Socket Programming e JavaFX.
 
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jardelva96&show_icons=true&theme=radical" alt="Jardel's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jardelva96&layout=compact&theme=radical" alt="Most Used Languages" />
-</div>
-
-## 🌱 Projects
-
-### [🔹 Task Manager](https://github.com/jardelva96/task-manager)
-A simple and efficient task management application built with React and Node.js. It helps users to manage their daily tasks and increase productivity.
-
-### [🔹 Weather App](https://github.com/jardelva96/weather-app)
-A weather forecasting application developed using JavaScript and the OpenWeather API. It provides current weather conditions and forecasts for various cities around the world.
-
-### [🔹 E-commerce Website](https://github.com/jardelva96/e-commerce-website)
-An e-commerce website built with React, Redux, and Node.js. It includes features like product browsing, cart management, and a secure checkout process.
-
-## 📝 Latest Articles
-
-| Article | Description |
-|---------|-------------|
-| [📄 Introduction to React](https://github.com/jardelva96/introduction-to-react) | An introductory article on React, covering its core concepts, components, state, and props. |
-| [📄 Getting Started with Java](https://github.com/jardelva96/Getting-Started-with-Java) | A beginner-friendly guide to Java, explaining basic syntax, data types, and object-oriented programming principles. |
-| [📄 RESTful APIs with Node.js](https://link-to-article.com) | A detailed tutorial on building RESTful APIs using Node.js and Express, including best practices and examples. |
-
-## 📫 How to Reach Me
-
-| Platform | Link |
-|----------|------|
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jardel-alves96/) | [LinkedIn Profile](https://www.linkedin.com/in/jardel-alves96/) |
-| [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jardel.va96@gmail.com) | [Send an Email](mailto:jardel.va96@gmail.com) |
-
-![Coding](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
-
----
-
-⭐️ Feel free to star my repositories if you find them interesting!
+📊 Estatísticas do GitHub
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jardelva96&show_icons=true&theme=radical" alt="Jardel's GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jardelva96&layout=compact&theme=radical" alt="Most Used Languages" /> </div>
+📫 Como Me Encontrar
+Plataforma	Link
+	LinkedIn
+	Email
+⭐ Se você gostou dos meus repositórios, sinta-se à vontade para dar uma estrela!
