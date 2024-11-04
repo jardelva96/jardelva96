@@ -42,7 +42,7 @@ A weather application powered by **JavaScript** and the **OpenWeather API** that
 ### [🔹 E-commerce Platform](https://github.com/jardelva96/e-commerce-website)
 An e-commerce solution developed with **React**, **Redux**, and **Node.js**, featuring a user-friendly interface and a secure checkout process.
 
-### [🔹 Scientific Calculator](https://github.com/jardelva96/scientific-calculator)
+### [🔹 Scientific Calculator](https://github.com/jardelva96/Scientific-Calculator) 
 A Python-based scientific calculator with a graphical interface and advanced mathematical functions.
 
 ### [🔹 Online Banking System](https://github.com/jardelva96/online-banking-system)
@@ -51,7 +51,7 @@ A secure online banking application using **Java**, **Spring Boot**, and **MySQL
 ### [🔹 Library Management System](https://github.com/jardelva96/library-management-system)
 A full-featured library system developed with **Python**, **Django**, and **SQLite**.
 
-### [🔹 Portfolio Website](https://github.com/jardelva96/portfolio-website)
+### [🔹 Portfolio Website](https://github.com/jardelva96/jardelva96.github.io) 
 Personal portfolio built with **React** and **CSS** showcasing projects and skills.
 
 ### [🔹 Blogging Platform](https://github.com/jardelva96/blogging-platform)
