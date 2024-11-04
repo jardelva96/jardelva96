@@ -42,7 +42,7 @@ A weather application powered by **JavaScript** and the **OpenWeather API** that
 ### [🔹 E-commerce Platform](https://github.com/jardelva96/e-commerce-website)
 An e-commerce solution developed with **React**, **Redux**, and **Node.js**, featuring a user-friendly interface and a secure checkout process.
 
-### [🔹 Scientific Calculator](https://github.com/jardelva96/Scientific-Calculator) 
+### [🔹 Scientific Calculator](https://github.com/jardelva96/Scientific_Calculator) 
 A Python-based scientific calculator with a graphical interface and advanced mathematical functions.
 
 ### [🔹 Online Banking System](https://github.com/jardelva96/online-banking-system)
