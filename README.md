@@ -1,4 +1,4 @@
-# 🗽 Jardel Alves 🗽
+# 🦅 Jardel Alves 
 
 👋 Hi there! I'm **Jardel Alves**, a Full Stack Developer with a passion for building innovative and efficient solutions. With solid experience in **Java** and **Python**, as well as front-end and back-end development, I strive to deliver top-quality software and stay on the cutting edge of technology.
 
