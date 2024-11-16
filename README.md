@@ -33,8 +33,8 @@
 
 ## 🌱 Projects
 
-### [🔹 Task Manager](https://github.com/jardelva96/task-manager)
-A comprehensive task management system built with **React** and **Node.js** to help users organize and enhance their productivity.
+### [🔹 Dashboard_fullstack]([https://github.com/jardelva96/dashboard_fullstack])
+Welcome to my interactive dashboard project! This is a demonstration of my skills in fullstack development using Python and modern technologies like FastAPI, Streamlit, and PostgreSQL. I designed this project as part of my portfolio to highlight my expertise in backend and frontend development, containerization, and database integration.
 
 ### [🔹 Weather App](https://github.com/jardelva96/weather-app)
 A weather application powered by **JavaScript** and the **OpenWeather API** that provides real-time weather updates and forecasts.
