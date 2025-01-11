@@ -47,17 +47,12 @@
 
 ## 🌱 Projects
 
-### [🔹 Dashboard Fullstack](https://github.com/jardelva96/dashboard_fullstack)
-An interactive dashboard built with **FastAPI**, **Streamlit**, and **PostgreSQL**, highlighting backend and frontend integration with containerization.
-
-### [🔹 Library Management System](https://github.com/jardelva96/library-management-system)
-A library management system using **Django** and **SQLite**, featuring full CRUD operations.
-
-### [🔹 AI Chatbot](https://github.com/jardelva96/ai-chatbot)
-An interactive chatbot powered by **TensorFlow** and **NLTK**, focusing on natural language processing.
-
-### [🔹 E-commerce Platform](https://github.com/jardelva96/e-commerce-website)
-A complete e-commerce solution built with **React**, **Redux**, and **Node.js**.
+| **Project**                                  | **Description**                                                                 |
+|----------------------------------------------|---------------------------------------------------------------------------------|
+| [🔹 Dashboard Fullstack](https://github.com/jardelva96/dashboard_fullstack)       | An interactive dashboard built with **FastAPI**, **Streamlit**, and **PostgreSQL**. |
+| [🔹 Library Management System](https://github.com/jardelva96/library-management-system) | A library management system using **Django** and **SQLite**, featuring full CRUD operations. |
+| [🔹 AI Chatbot](https://github.com/jardelva96/ai-chatbot)                         | An interactive chatbot powered by **TensorFlow** and **NLTK** for natural language processing. |
+| [🔹 E-commerce Platform](https://github.com/jardelva96/e-commerce-website)       | A complete e-commerce solution built with **React**, **Redux**, and **Node.js**. |
 
 ---
 
