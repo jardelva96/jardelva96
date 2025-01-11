@@ -1,27 +1,68 @@
 # 🦅 Jardel Alves 
 
-👋 Hi there! I'm **Jardel Alves**, a Full Stack Developer with a passion for building innovative and efficient solutions. With solid experience in **Java** and **Python**, as well as front-end and back-end development, I strive to deliver top-quality software and stay on the cutting edge of technology.
+👋 **Olá!** Sou o **Jardel Alves**, um Desenvolvedor Full Stack apaixonado por criar soluções eficientes e inovadoras. Com experiência sólida em **Java**, **Python**, **C#** e outras tecnologias modernas, estou sempre em busca de novos desafios para entregar software de alta qualidade e me manter atualizado com as tendências do setor.
 
-![Developer GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDZzZWVtZnVpeG0zZmtremR1M29pbWQxY2pyZ2FvZjZzeTAydDJodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hGjr3wcwjGG99V6vIY/giphy.gif) 
+![Developer GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDZzZWVtZnVpeG0zZmtremR1M29pbWQxY2pyZ2FvZjZzeTAydDJodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hGjr3wcwjGG99V6vIY/giphy.gif)
 
+---
 
-## 🚀 About Me
-[My Portfolio](https://jardelva96.github.io/)  
-![Profile views](https://komarev.com/ghpvc/?username=jardelva96&color=blue)
+## 🚀 Sobre Mim
 
-- ✨ **Full Stack Developer** specializing in **Java** and **Python**.
-- 🎓 Graduated in **Analysis and Systems Development and Math**.
-- 📈 Continuously exploring and mastering new technologies to expand my expertise.
+🌐 Confira meu [Portfólio](https://jardelva96.github.io/)  
+👀 Visualizações de perfil: ![Profile views](https://komarev.com/ghpvc/?username=jardelva96&color=blue)
 
-## 🛠️ Skills
+- ✨ Desenvolvedor Full Stack especializado em **Java**, **Python**, **C#**, **React** e **Spring Boot**.
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas** e **Matemática**.
+- 🌱 Experiência prática com **Docker**, **Kubernetes**, **CI/CD**, **Prometheus**, **MongoDB** e **PostgreSQL**.
+- 🧠 Sempre aprendendo novas tecnologias como **TypeScript**, **NestJS**, **FastAPI** e frameworks modernos.
+- 📈 Focado em arquitetura de software escalável, microsserviços e integração de inteligência artificial.
 
-| Programming Languages | Front-End Development | Back-End Development | Tools and Technologies |
-| --------------------- | --------------------- | -------------------- | ---------------------- |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
-| ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) | ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) |
-| ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) | ![REST APIs](https://img.shields.io/badge/REST-25D366?style=for-the-badge&logo=rest&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+---
+
+## 🛠️ Tecnologias
+
+### Linguagens de Programação
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+- ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### Front-End
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+- ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+### Back-End
+- ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+- ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+- ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+- ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+- ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### Banco de Dados
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Ferramentas DevOps
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+- ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+- ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+
+### Testes
+- ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+- ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+- ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+
+---
 
 ## 📊 GitHub Stats
 
@@ -30,94 +71,30 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jardelva96&layout=compact&theme=radical&langs_count=12" alt="Most Used Languages" />
 </div>
 
+---
 
-## 🌱 Projects
+## 🌱 Projetos
 
-### [🔹 Dashboard_fullstack](https://github.com/jardelva96/dashboard_fullstack)
-Welcome to my interactive dashboard project! This is a demonstration of my skills in fullstack development using Python and modern technologies like FastAPI, Streamlit, and PostgreSQL. I designed this project as part of my portfolio to highlight my expertise in backend and frontend development, containerization, and database integration.
-
-### [🔹 Weather App](https://github.com/jardelva96/weather-app)
-A weather application powered by **JavaScript** and the **OpenWeather API** that provides real-time weather updates and forecasts.
-
-### [🔹 E-commerce Platform](https://github.com/jardelva96/e-commerce-website)
-An e-commerce solution developed with **React**, **Redux**, and **Node.js**, featuring a user-friendly interface and a secure checkout process.
-
-### [🔹 Scientific Calculator](https://github.com/jardelva96/Scientific_Calculator) 
-A Python-based scientific calculator with a graphical interface and advanced mathematical functions.
-
-### [🔹 Online Banking System](https://github.com/jardelva96/online-banking-system)
-A secure online banking application using **Java**, **Spring Boot**, and **MySQL**.
+### [🔹 Dashboard Fullstack](https://github.com/jardelva96/dashboard_fullstack)
+Um dashboard interativo criado com **FastAPI**, **Streamlit** e **PostgreSQL**, destacando integração backend e frontend com containerização.
 
 ### [🔹 Library Management System](https://github.com/jardelva96/library-management-system)
-A full-featured library system developed with **Python**, **Django**, and **SQLite**.
+Sistema de gerenciamento de biblioteca usando **Django** e **SQLite**, com CRUD completo.
 
-### [🔹 Portfolio Website](https://github.com/jardelva96/jardelva96.github.io) 
-Personal portfolio built with **React** and **CSS** showcasing projects and skills.
+### [🔹 AI Chatbot](https://github.com/jardelva96/ai-chatbot)
+Chatbot interativo alimentado por **TensorFlow** e **NLTK**, com foco em processamento de linguagem natural.
 
-### [🔹 Blogging Platform](https://github.com/jardelva96/blogging-platform)
-A dynamic blogging site with **Java**, **Spring Boot**, and **Thymeleaf**.
+### [🔹 E-commerce Platform](https://github.com/jardelva96/e-commerce-website)
+Uma solução completa de e-commerce construída com **React**, **Redux** e **Node.js**.
 
-### [🔹 Social Media Dashboard](https://github.com/jardelva96/social-media-dashboard)
-A **Python Flask**-based app for social media analytics.
+---
 
-### [🔹 Chat Application](https://github.com/jardelva96/chat-application)
-A real-time chat application built using **Java**, **Socket Programming**, and **JavaFX**.
+## 📫 Contato
 
-### [🔹 Budget Tracker](https://github.com/jardelva96/budget-tracker)
-A finance management tool created with **Python** and **Flask**.
+| Plataforma      | Link                                                                 |
+|------------------|----------------------------------------------------------------------|
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jardel-alves96/) | [Meu Perfil no LinkedIn](https://www.linkedin.com/in/jardel-alves96/) |
+| [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jardel.va96@gmail.com) | [Envie um Email](mailto:jardel.va96@gmail.com) |
 
-### [🔹 Hotel Booking System](https://github.com/jardelva96/hotel-booking-system)
-A complete hotel booking system developed in **Java** with **Spring Boot**.
+⭐️ **Sinta-se à vontade para dar uma estrela nos repositórios que achar interessantes!**
 
-### [🔹 Inventory Management Tool](https://github.com/jardelva96/inventory-management-tool)
-A project for managing inventory, built with **React**, **Node.js**, and **MongoDB**.
-
-### [🔹 Real Estate Platform](https://github.com/jardelva96/real-estate-platform)
-A property listing platform using **Python Django** and **PostgreSQL**.
-
-### [🔹 Fitness Tracker App](https://github.com/jardelva96/fitness-tracker)
-A fitness tracking app built with **Java**, **Spring Boot**, and **React**.
-
-### [🔹 Recipe Sharing Platform](https://github.com/jardelva96/fitness-tracker)
-A social platform for sharing and discovering recipes, built using Python, Django, and SQLite.
-
-### [🔹 AI-Powered Chatbot](https://github.com/jardelva96/fitness-tracker)
-An interactive chatbot utilizing Python, TensorFlow, and NLTK for natural language processing.
-
-### [🔹 Travel Booking System](https://github.com/jardelva96/fitness-tracker)
-A comprehensive travel booking application developed in Java, Spring Boot, and MySQL.
-
-### [🔹 Content Management System (CMS)](https://github.com/jardelva96/fitness-tracker)
-A React and Node.js-based CMS that allows users to create and manage web content seamlessly.
-
-### [🔹 Data Visualization Platform](https://github.com/jardelva96/fitness-tracker)
-A Python application utilizing Matplotlib and Seaborn for advanced data visualization.
-
-### [🔹 Online Quiz Platform](https://github.com/jardelva96/fitness-tracker)
-An interactive quiz platform created using JavaScript, Node.js, and MongoDB.
-
-### [🔹 News Aggregator App](https://github.com/jardelva96/fitness-tracker)
-A web app that collects and displays news from various sources using Python and Flask.
-
-### [🔹 Event Management System](https://github.com/jardelva96/fitness-tracker)
-A platform for creating and managing events, developed with React, Node.js, and MongoDB.
-
-### [🔹 Personal Blog Platform](https://github.com/jardelva96/fitness-tracker)
-A blog platform built with Python Django and Bootstrap, allowing users to create, edit, and publish posts.
-
-### [🔹 Logistics and Supply Chain App](https://github.com/jardelva96/fitness-tracker)
-A logistics management system using Java, Spring Boot, and PostgreSQL for data management and tracking.
-
-### [🔹 Online Voting System](https://github.com/jardelva96/fitness-tracker)
-A secure and scalable online voting platform built with Java, Spring Boot, and Thymeleaf.
-
-## 📫 How to Reach Me
-
-| Platform | Link |
-|----------|------|
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jardel-alves96/) | [LinkedIn Profile](https://www.linkedin.com/in/jardel-alves96/) |
-| [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jardel.va96@gmail.com) | [Send an Email](mailto:jardel.va96@gmail.com) |
-
-![Developer GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJhM3ZqeXQzeWFpaXRjZTV4bGV0d3hoYjBlc2p6bnJhZG9qOWd4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NLHq5dOtUtOUEjOr7W/giphy.gif)
-
-⭐️ Feel free to star my repositories if you find them interesting!
