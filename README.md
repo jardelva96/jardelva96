@@ -13,7 +13,7 @@ I specialize in designing backend architectures, crafting intuitive frontends, a
 📧 jardel.va96@gmail.com  
 🔗 [Portfolio](https://jardelva96.github.io/) | [LinkedIn](https://www.linkedin.com/in/jardel-alves96/)
 
-- 🔧 **5+ years** of experience in Full Stack Development.
+- 🔧 **8+ years** of experience in Full Stack Development.
 - 👨‍🎓 Background in **Systems Analysis and Development** and **Mathematics**.
 - 🔁 Solid skills in **Agile**, **CI/CD**, **Clean Architecture**, and **SOLID principles**.
 - ☁️ Working with **Docker**, **Kubernetes**, **Prometheus**, **AWS**, and **Microservices**.
