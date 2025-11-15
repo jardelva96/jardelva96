@@ -89,7 +89,7 @@ I specialize in designing backend architectures, crafting intuitive frontends, a
 |---------|------|
 | 🌐 Website | [https://jardelva96.github.io/](https://jardelva96.github.io/) |
 | 📧 Email | [jardel.va96@gmail.com](mailto:jardel.va96@gmail.com) |
-| 💼 LinkedIn | [linkedin.com/in/jardel-alves96](https://www.linkedin.com/in/jardel-alves96/) |
+| 💼 LinkedIn | [linkedin.com/in/jardel-alves96](https://www.linkedin.com/in/jardelva/) |
 
 ---
 
