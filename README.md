@@ -7,7 +7,7 @@ React · Angular · Vue · ASP.NET · Java (Spring/JSF/Thymeleaf) · REST/gRPC �
 
 ## 👋 About
 
-I'm **Jardel Vieira Alves**, a full-stack engineer focused on building **robust, scalable and observable systems** – from modern SPAs to cloud-native backends.
+I'm **Jardel**, a full-stack engineer focused on building **robust, scalable and observable systems** – from modern SPAs to cloud-native backends.
 
 - 🌍 Based in **Florianópolis, Brazil** · Open to **remote** and **relocation**
 - 💼 8+ years delivering solutions for **public sector, finance, healthcare, retail, logistics and education**
