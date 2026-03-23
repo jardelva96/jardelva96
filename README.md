@@ -9,7 +9,7 @@
 I'm **Jardel**, a full-stack engineer focused on building **robust, scalable and observable systems** – from modern SPAs to cloud-native backends.
 
 - 🌍 Based in **Florianópolis, Brazil** · Open to **remote** and **relocation**
-- 💼 8+ years delivering solutions for **public sector, finance, healthcare, retail, logistics and education**
+- 💼 Delivering solutions for **public sector, finance, healthcare, retail, logistics and education**
 - 🧠 Strong in **frontend architectures**, **API design**, **legacy modernization** and **event-driven systems**
 - ☁️ Experience with **Docker, Kubernetes, CI/CD (Azure DevOps, GitLab, GitHub Actions) and AWS**
 - 📊 Comfortable with **SQL/PLSQL**, performance tuning and observability (logs, metrics, tracing)
