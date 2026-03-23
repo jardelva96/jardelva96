@@ -1,7 +1,6 @@
 # 🦅 Jardel Alves
 
 **Senior Full-Stack Software Engineer**  
-React · Angular · Vue · ASP.NET · Java (Spring/JSF/Thymeleaf) · REST/gRPC · Microservices · Cloud
 
 ---
 
