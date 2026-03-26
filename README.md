@@ -2,8 +2,8 @@
 
 <div align="left">
 
-**Senior Full-Stack Software Engineer | Software Architect**
-Building robust, scalable, and observable products from modern frontend applications to cloud-native backend platforms.
+**Senior Full-Stack Software Engineer | Software Architect**  
+Building scalable, maintainable, and observable software across frontend, backend, cloud, and DevOps.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jardelva96.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jardel%20Alves-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jardelva/)
@@ -15,22 +15,22 @@ Building robust, scalable, and observable products from modern frontend applicat
 
 ## 👋 About Me
 
-I'm a software engineer focused on evolving complex systems into maintainable, testable, and well-instrumented platforms.
+I'm a software engineer focused on designing and evolving systems that are scalable, maintainable, testable, and production-ready.
 
-- 🌍 Based in **Florianópolis, Brazil** (open to **remote** and **relocation**)
+- 🌍 Based in **Florianópolis, Brazil** — open to **remote work** and **relocation**
 - 🧩 Experience across **public sector, finance, healthcare, retail, logistics, and education**
-- 🏗 Strong in **frontend architecture, API design, legacy modernization, and event-driven systems**
-- ☁️ Hands-on with **Docker, Kubernetes, AWS, and CI/CD** (Azure DevOps, GitLab CI, GitHub Actions)
-- 📊 Solid background in **SQL/PLSQL, performance tuning, and observability** (logs, metrics, tracing)
+- 🏗 Strong background in **frontend architecture, API design, system modernization, and distributed systems**
+- ☁️ Hands-on with **Docker, Kubernetes, AWS, and CI/CD pipelines**
+- 📊 Solid experience with **SQL/PLSQL, performance tuning, and observability**
 - 🎓 Background in **Software Engineering, Data Analysis, and Mathematics**
 
 ---
 
 ## 🧠 Engineering Focus
 
-- Modernizing legacy platforms (WebForms, JSF, Thymeleaf) into scalable SPA architectures
-- Designing APIs with strong contracts, versioning strategy, and backward compatibility
-- Improving reliability with observability-first practices and production diagnostics
+- Modernizing legacy applications into scalable and maintainable architectures
+- Designing robust APIs with strong contracts, versioning, and backward compatibility
+- Improving reliability through observability, monitoring, and production diagnostics
 - Balancing clean architecture, delivery speed, and long-term maintainability
 
 ---
@@ -64,7 +64,7 @@ I'm a software engineer focused on evolving complex systems into maintainable, t
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![REST](https://img.shields.io/badge/REST-02569B?style=flat-square&logo=swagger&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=swagger&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-00C7B7?style=flat-square&logo=grpc&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
@@ -91,14 +91,21 @@ I'm a software engineer focused on evolving complex systems into maintainable, t
 
 ## 📌 Featured Projects
 
+> Update the descriptions below to match the strongest repositories in your profile. Prioritize projects with:
+> - clear README files
+> - screenshots or demos
+> - real architecture decisions
+> - tests, CI/CD, or deployment
+> - clean commit history
+
 | Project | Stack | Highlights |
 |---|---|---|
-| [📊 Dashboard Fullstack](https://github.com/jardelva96/dashboard_fullstack) | Python, Django/FastAPI, PostgreSQL | Analytics dashboard with filtering, charting, and authentication |
-| [🛒 E-commerce Platform](https://github.com/jardelva96/e-commerce-website) | React, Node.js, REST API | Modular architecture for catalog, cart, and checkout |
-| [🌦 Weather App](https://github.com/jardelva96/weather-app) | JavaScript, External APIs | Forecast UI consuming third-party weather providers |
-| [✅ Task Management System](https://github.com/jardelva96/task-manager) | Java, Spring Boot, SQL | Layered backend with auth, status, and deadline workflows |
-| [📦 Inventory Management](https://github.com/jardelva96/inventory-management) | Java, REST API, SQL | Stock and movement control with alerting workflows |
-| [💬 Real-time Chat App](https://github.com/jardelva96/chat-app) | Node.js, WebSockets | Multi-room real-time communication and live updates |
+| [📊 Dashboard Fullstack](https://github.com/jardelva96/dashboard_fullstack) | Python, Django/FastAPI, PostgreSQL | Analytics dashboard with filtering, charting, authentication, and data-driven workflows |
+| [🛒 E-commerce Platform](https://github.com/jardelva96/e-commerce-website) | React, Node.js, REST API | Modular architecture for catalog, cart, checkout, and product management |
+| [🌦 Weather App](https://github.com/jardelva96/weather-app) | JavaScript, External APIs | Forecast interface consuming third-party APIs with responsive UI |
+| [✅ Task Management System](https://github.com/jardelva96/task-manager) | Java, Spring Boot, SQL | Layered backend with authentication, task states, and deadline workflows |
+| [📦 Inventory Management](https://github.com/jardelva96/inventory-management) | Java, REST API, SQL | Stock control, movement tracking, and alert-driven flows |
+| [💬 Real-time Chat App](https://github.com/jardelva96/chat-app) | Node.js, WebSockets | Real-time multi-room communication with live updates |
 
 ---
 
