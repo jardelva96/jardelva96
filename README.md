@@ -102,7 +102,7 @@ I'm a software engineer focused on evolving complex systems into maintainable, t
 
 ---
 
-## 📈 GitHub Activity
+## 📈 GitHub Metrics
 
 - 📌 Pinned repositories: <https://github.com/jardelva96?tab=repositories>
 - 📊 Contributions and recent activity: <https://github.com/jardelva96>
