@@ -109,12 +109,11 @@ I'm a software engineer focused on designing and evolving systems that are scala
 
 ---
 
+
 ## 📈 GitHub Metrics
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jardelva96&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jardelva96&layout=compact&theme=tokyonight" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jardelva96&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jardelva96&layout=compact&theme=tokyonight)
 
 ---
 
