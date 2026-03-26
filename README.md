@@ -102,13 +102,11 @@ I'm a software engineer focused on evolving complex systems into maintainable, t
 
 ---
 
-## 📈 GitHub Metrics
-
-To keep this section reliable (without broken third-party widgets), here are direct GitHub activity links:
+## 📈 GitHub Activity
 
 - 📌 Pinned repositories: <https://github.com/jardelva96?tab=repositories>
-- 📊 Contribution graph and activity: <https://github.com/jardelva96>
-- 🧾 Public repositories list: <https://github.com/jardelva96?tab=repositories&type=source>
+- 📊 Contributions and recent activity: <https://github.com/jardelva96>
+- 🧾 Public repositories: <https://github.com/jardelva96?tab=repositories&type=source>
 
 ---
 
