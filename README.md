@@ -89,14 +89,6 @@ I'm a software engineer focused on designing and evolving systems that are scala
 
 ---
 
-## 📌 Featured Projects
-
-> Update the descriptions below to match the strongest repositories in your profile. Prioritize projects with:
-> - clear README files
-> - screenshots or demos
-> - real architecture decisions
-> - tests, CI/CD, or deployment
-> - clean commit history
 
 ## 🤝 Let's Connect
 
