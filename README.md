@@ -104,11 +104,11 @@ I'm a software engineer focused on evolving complex systems into maintainable, t
 
 ## 📈 GitHub Metrics
 
-To avoid rendering errors from third-party image services, I keep this section lightweight and stable:
+To keep this section reliable (without broken third-party widgets), here are direct GitHub activity links:
 
 - 📌 Pinned repositories: <https://github.com/jardelva96?tab=repositories>
-- 📊 Contribution activity: <https://github.com/jardelva96>
-- 🧾 Recent public work: <https://github.com/jardelva96?tab=overview&from=2026-03-01&to=2026-03-31>
+- 📊 Contribution graph and activity: <https://github.com/jardelva96>
+- 🧾 Public repositories list: <https://github.com/jardelva96?tab=repositories&type=source>
 
 ---
 
