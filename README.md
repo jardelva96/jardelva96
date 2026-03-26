@@ -109,14 +109,6 @@ I'm a software engineer focused on designing and evolving systems that are scala
 
 ---
 
-
-## 📈 GitHub Metrics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jardelva96&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jardelva96&layout=compact&theme=tokyonight)
-
----
-
 ## 🤝 Let's Connect
 
 - 🌐 Portfolio: <https://jardelva96.github.io/>
