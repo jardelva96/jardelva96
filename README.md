@@ -98,17 +98,6 @@ I'm a software engineer focused on designing and evolving systems that are scala
 > - tests, CI/CD, or deployment
 > - clean commit history
 
-| Project | Stack | Highlights |
-|---|---|---|
-| [📊 Dashboard Fullstack](https://github.com/jardelva96/dashboard_fullstack) | Python, Django/FastAPI, PostgreSQL | Analytics dashboard with filtering, charting, authentication, and data-driven workflows |
-| [🛒 E-commerce Platform](https://github.com/jardelva96/e-commerce-website) | React, Node.js, REST API | Modular architecture for catalog, cart, checkout, and product management |
-| [🌦 Weather App](https://github.com/jardelva96/weather-app) | JavaScript, External APIs | Forecast interface consuming third-party APIs with responsive UI |
-| [✅ Task Management System](https://github.com/jardelva96/task-manager) | Java, Spring Boot, SQL | Layered backend with authentication, task states, and deadline workflows |
-| [📦 Inventory Management](https://github.com/jardelva96/inventory-management) | Java, REST API, SQL | Stock control, movement tracking, and alert-driven flows |
-| [💬 Real-time Chat App](https://github.com/jardelva96/chat-app) | Node.js, WebSockets | Real-time multi-room communication with live updates |
-
----
-
 ## 🤝 Let's Connect
 
 - 🌐 Portfolio: <https://jardelva96.github.io/>
